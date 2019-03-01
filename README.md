@@ -16,7 +16,7 @@ De-Russified
 MURICA! Web Server! Takes out all the sneaky Russian code and replaces it with
 FREEDOM! 
 
-MURICA! Web Server!'s code is pure red, white and blue. Any by that we mean
+MURICA! Web Server!'s code is pure red, white and blue. And by that we mean
 American red, white, and blue; not Russian (obviously).
 
 | 'MURICA!                                                                                                                                     | Russia
