@@ -7,7 +7,7 @@
 | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
 | ![Old Glory](https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif) | ![USA!](https://media.giphy.com/media/ToMjGpSRhDQ6vzZXVIs/giphy.gif) |
 
-Company or client won't let you use nginx because of they're obvious Russian
+Company or client won't let you use nginx because of their obvious Russian
 connections? Then 'MURICA! Web Server! is for you!
 
 De-Russified
