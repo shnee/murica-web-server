@@ -13,7 +13,7 @@ connections? Then 'MURICA! Web Server! is for you!
 De-Russified
 ----------------------------------------
 
-MURICA! Web Server! Takes out all the sneaky Russian code and replaces it with
+MURICA! Web Server! takes out all the sneaky Russian code and replaces it with
 FREEDOM! 
 
 MURICA! Web Server!'s code is pure red, white and blue. And by that we mean
